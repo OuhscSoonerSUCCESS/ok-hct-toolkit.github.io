@@ -2,7 +2,7 @@
 This is an effort to compile and provide health care transition resources to providers and families looking forward to transitioning young adults from pediatrics to adult health care
 
 Link to the resource-guide:
-https://ouhscsoonersuccess.github.io/-hct-toolkit.github.io/
+https://ouhscsoonersuccess.github.io/ok-hct-toolkit.github.io/
 
 Developers/Content Design Contributor:
 
