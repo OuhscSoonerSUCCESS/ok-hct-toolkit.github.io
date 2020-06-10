@@ -10,8 +10,6 @@ Developers/Content Design Contributor:
 - Himani Radadiya aka Patel MPH, BDS
 - Trevor Harkness, MPH
 - Sooner SUCCESS, Section on Developmental and Behavioral Pediatrics, University of Oklahoma Health Sciences Center
-      + Link to SoonerSUCCESS website:
-      
-       [SoonerSUCCESS Website](https://soonersuccess.ouhsc.edu/)
+      + Link to SoonerSUCCESS website: https://soonersuccess.ouhsc.edu/
      
          
