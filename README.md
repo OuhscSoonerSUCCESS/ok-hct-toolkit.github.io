@@ -8,7 +8,7 @@ Developers/Content Design Contributor:
 
 - Maleeha Shahid MD, MPH, MSHR, LEND Fellow
 - Himani Radadiya aka Patel MPH, BDS
-- Trevor Harkness, MPH
+- Trevor Harkness, MHA
 - Sooner SUCCESS, Section on Developmental and Behavioral Pediatrics, University of Oklahoma Health Sciences Center
   + Link to SoonerSUCCESS website: https://soonersuccess.ouhsc.edu/
      
